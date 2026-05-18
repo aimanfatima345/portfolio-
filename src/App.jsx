@@ -8,7 +8,7 @@ import expense from "./assets/expense.jpg";
 const projects = [
   {
     title: "Expense Tracker App",
-    img:chat,
+    img:expense,
     description:
       "Flutter app for tracking income and expenses with Firebase authentication and charts.",
   },
